@@ -4,6 +4,7 @@ import br.com.clinica.api_rest.dto.MedicoRequest;
 import br.com.clinica.api_rest.dto.MedicoResponse;
 import br.com.clinica.api_rest.entity.Medico;
 import br.com.clinica.api_rest.entity.Especialidade;
+import java.util.List;
 
 import java.util.stream.Collectors;
 
